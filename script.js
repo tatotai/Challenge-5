@@ -1,2 +1,8 @@
-fetch('https://day.js.org/en/')
-.then(res => console.log(res))
+let pollos = [];
+
+const addRes = (ev)=>{
+    ev.PreventDefault();
+    let pollo = {
+        title: document.getElementById()
+    }
+}
